@@ -5,7 +5,7 @@
 
 1. sum ข้อมูล จาก column `fee` โดยแยก ออกมาตาม group ของ `market`, `side` แล้ว หาจำนวน count และ เวลาล่าสุด ของ group ที่แยก ออกมา
 
-result จาก การ query ข้อมูล ที่ต้องการ ควรจะได้ดังรูปภาพข้างล่างนี้
+result จาก การ query ข้อมูล ที่ต้องการ ควรจะได้ดังรูปภาพข้างล่างนี้ แต่สามารถเขียนตามความเข้าใจ และความสามารถ ของท่านเองได้
 
 ![query](https://github.com/casperstack/js-sql-test/blob/main/query.png?raw=true)
 
