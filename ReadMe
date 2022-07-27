@@ -9,4 +9,4 @@ result จาก การ query ข้อมูล ที่ต้องกา�
 
 https://github.com/casperstack/js-sql-test/blob/main/query.png?raw=true
 
-(จาก รูปภาพใช้ query time แค่ 0.3 ms)
+(จาก รูปภาพใช้ query time แค่ 3 ms)
