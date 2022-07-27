@@ -7,7 +7,7 @@
 
 result จาก การ query ข้อมูล ที่ต้องการ ควรจะได้ดังรูปภาพข้างล่างนี้
 
-![enter image description here](https://www.investerest.co/wp-content/uploads/2018/11/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5-SET50.jpg)
+![enter image description here](https://github.com/casperstack/js-sql-test/blob/main/query.png?raw=true)
 
 
 (จาก รูปภาพใช้ query time แค่ 0.3 ms)
