@@ -7,6 +7,6 @@
 
 result จาก การ query ข้อมูล ที่ต้องการ ควรจะได้ดังรูปภาพข้างล่างนี้
 
-![Alt text](https://github.com/casperstack/js-sql-test/blob/main/query.png?raw=true "result")
+![Screenshot](query.png)
 
 (จาก รูปภาพใช้ query time แค่ 0.3 ms)
